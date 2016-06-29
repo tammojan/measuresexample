@@ -1,0 +1,3 @@
+# Get the azimuth and elevation of Jupiter from Dwingeloo at a given time.
+# Usage: taql < azel.taql
+calc meas.azel("Jupiter",2016-06-28 19:54,"DWL") deg
